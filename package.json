@@ -1,0 +1,23 @@
+{
+  "name": "practice2",
+  "version": "1.0.0",
+  "description": "This is testing application for practicing Typescript ======================================================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msh-odoo/odoo_keep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msh-odoo/odoo_keep/issues"
+  },
+  "homepage": "https://github.com/msh-odoo/odoo_keep#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
